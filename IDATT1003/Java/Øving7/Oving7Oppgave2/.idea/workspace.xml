@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f97d1f8d-44fd-42c1-8f0a-3f30942342f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 1/Jupyter Filer/avrundingsfeil_subtraksjon.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 1/Jupyter Filer/avrundingsfeil_subtraksjon.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/andregradsligning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/andregradsligning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/betingede_funksjoner.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/betingede_funksjoner.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/billettpriser_og_rabatter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/billettpriser_og_rabatter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/plotting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/plotting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/sammenligning_av_strenger.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/sammenligning_av_strenger.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/ulike_typer_if-setninger.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programmering, numerikk og sikkerhet NTNU/Python/Øving 2/ulike_typer_if-setninger.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WWLJEdz1z1cIo69ejT2PZuRtNk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "NTNU",
+    "last_opened_file_path": "C:/Users/marku/Documents/Programmering/Programmering 1 NTNU",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/marku/Documents/Programmering/Programmering 1 NTNU/Java/Øving3/Oving7Oppgave2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f97d1f8d-44fd-42c1-8f0a-3f30942342f8" name="Changes" comment="" />
+      <created>1696843317119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696843317119</updated>
+      <workItem from="1696843318128" duration="671000" />
+      <workItem from="1697478358836" duration="1279000" />
+      <workItem from="1697497205983" duration="2457000" />
+      <workItem from="1697543985545" duration="625000" />
+      <workItem from="1697544977020" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

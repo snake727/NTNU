@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c8207be-e549-4992-9863-7925a97a6979" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../IDATT1003/Java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../IDATT1003/Java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IDATT1003/Java/Øving3/Oving9Oppgave1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../IDATT1003/Java/Øving3/Oving9Oppgave1/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IDATT1003/Java/Øving3/Oving9Oppgave1/src/Oppgaveoversikt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../IDATT1003/Java/Øving3/Oving9Oppgave1/src/Oppgaveoversikt.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Xr7HcfDwca2jtfQJ1O5UGaCcHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "4ce8951f",
+    "last_opened_file_path": "C:/Users/marku/Documents/Programmering/Programmering 1 NTNU/Java/Øving3/Oving10Oppgave2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/marku/Documents/Programmering/Programmering 1 NTNU/Java/Øving3/Oving11Oppgave1/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c8207be-e549-4992-9863-7925a97a6979" name="Changes" comment="" />
+      <created>1699375260766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699375260766</updated>
+      <workItem from="1699375261809" duration="2014000" />
+      <workItem from="1699542603709" duration="115000" />
+      <workItem from="1699628299697" duration="1873000" />
+      <workItem from="1699712052607" duration="1223000" />
+      <workItem from="1699865368217" duration="87000" />
+      <workItem from="1700225351987" duration="1338000" />
+      <workItem from="1700411240056" duration="1397000" />
+      <workItem from="1700471279436" duration="14584000" />
+      <workItem from="1700565953183" duration="3677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

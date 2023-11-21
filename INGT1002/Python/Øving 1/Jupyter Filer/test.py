@@ -1,0 +1,1 @@
+# Create a program that takes in a list with the customers purchase history from the last 30 days. If the sum is bigger than 1000, give a 10% discount. If the sum is bigger than 5000, give a 20% discount.
